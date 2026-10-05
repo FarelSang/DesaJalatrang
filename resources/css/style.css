@@ -1,0 +1,27 @@
+.berita-content {
+    font-size: 17px;
+    line-height: 1.8;
+    color: #344054;
+}
+
+.berita-content p {
+    margin-bottom: 1.2rem;
+}
+
+.berita-content h2 {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.berita-content h3 {
+    margin-top: 1.5rem;
+    margin-bottom: 1rem;
+    font-weight: 700;
+}
+
+.berita-content img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
